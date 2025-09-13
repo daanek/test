@@ -40,7 +40,7 @@ def draw_hangman(attempts):
            ------
            |    |
            | game over 
-           |    hhhhhhhhh
+           |    tttttttt
            |    |
            |   
            |
