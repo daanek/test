@@ -39,7 +39,7 @@ def draw_hangman(attempts):
         """
            ------
            |    |
-           |    O
+           | game over 
            |    |
            |   
            |
